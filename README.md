@@ -1,2 +1,2 @@
-# NLW-2
+# NLW-2-Backend
 Project from Rocketseat workshop
